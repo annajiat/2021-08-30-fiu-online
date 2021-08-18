@@ -25,7 +25,7 @@ eventbrite:  165772412749         # optional: alphanumeric key for Eventbrite re
 {% comment %}
 HEADER
 
-Edit the values in the block above to be appropriate for your workshop.
+Edit the values in the block above to be appropriate for your workshop.The course is aimed at graduate students and other re
 If the value is not 'true', 'false', 'null', or a number, please use
 double quotation marks around the value, unless specified otherwise.
 And run 'make workshop-check' *before* committing to make sure that changes are good.
